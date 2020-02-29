@@ -6,7 +6,7 @@ import Nav from "./Components/Nav";
 
 function App() {
   return (
-    <div>
+    
       <BrowserRouter>
       <Nav/>
         <Route exact path="/" component={Home} />
@@ -15,8 +15,7 @@ function App() {
         {/* <Route exact path="/contact" component={Contact} /> */}
         {/* <Route exact path="/resume" component={Resume} */}
       </BrowserRouter>
-  
-    </div>
+    
   );
 }
 
