@@ -16,7 +16,7 @@ function Home(){
 
                 <div className="col">
 
-                    <img className="ellen-photo" alt="profile photo" src={profilePic}/>
+                    <img className="ellen-photo" alt="profile" src={profilePic}/>
 
                     <h3> About Me</h3>
                     <p>

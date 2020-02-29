@@ -26,7 +26,7 @@ function Portfolio(){
 
                             <div className= "ellen-stock">
                             
-                                <img className= "rounded mx-auto d-block" src= {passwordImg} height="250px" width="250px"/>
+                                <img className= "rounded mx-auto d-block"  alt="clip of app" src= {passwordImg} height="250px" width="250px"/>
                             
                                 <div className="ellen-photo-bar"> 
                                     <a href="https://evwhite2.github.io/passwordgenerator/">Explore Password Generator</a>
@@ -40,7 +40,7 @@ function Portfolio(){
 
                             <div className= "ellen-stock">
                             
-                                <img className= "rounded mx-auto d-block" src= {QuizTimeImg} height="250px" width="250px"/>
+                                <img className= "rounded mx-auto d-block"  alt="clip of app" src= {QuizTimeImg} height="250px" width="250px"/>
                             
                                 <div className="ellen-photo-bar"> 
                                     <a href="https://evwhite2.github.io/Timed-Quiz-NH/">Explore QuizTime</a>
@@ -54,7 +54,7 @@ function Portfolio(){
 
                                 <div className= "ellen-stock">
                                 
-                                    <img className= "rounded mx-auto d-block" src= {TripBuddyImg} height="250px" width="250px"/>
+                                    <img className= "rounded mx-auto d-block"  alt="clip of app" src= {TripBuddyImg} height="250px" width="250px"/>
                                 
                                     <div className="ellen-photo-bar"> 
                                         <a href="https://mysterious-eyrie-04638.herokuapp.com/">Explore TripBuddy</a>
@@ -72,7 +72,7 @@ function Portfolio(){
 
                             <div className= "ellen-stock">
                             
-                                <img className= "rounded mx-auto d-block" src= {devourImg} height="250px" width="250px"/>
+                                <img className= "rounded mx-auto d-block"  alt="clip of app" src= {devourImg} height="250px" width="250px"/>
                             
                                 <div className="ellen-photo-bar"> 
                                     <a href="https://radiant-sea-75820.herokuapp.com/">Explore Devour-or-Nah</a>
@@ -86,7 +86,7 @@ function Portfolio(){
 
                             <div className= "ellen-stock">
                             
-                                <img className= "rounded mx-auto d-block" src= {StarWarsImg} height="250px" width="250px"/>
+                                <img className= "rounded mx-auto d-block"  alt="clip of app" src= {StarWarsImg} height="250px" width="250px"/>
                             
                                 <div className="ellen-photo-bar"> 
                                     <a href="https://rocky-gorge-12366.herokuapp.com/">Explore StarWars DB</a>
@@ -100,7 +100,7 @@ function Portfolio(){
 
                                 <div className= "ellen-stock">
                                 
-                                    <img className= "rounded mx-auto d-block" src= {techStockImg} height="250px" width="250px"/>
+                                    <img className= "rounded mx-auto d-block"  alt="clip of app" src= {techStockImg} height="250px" width="250px"/>
                                 
                                     <div className="ellen-photo-bar double"> 
                                         <a href="https://youtu.be/STRGiu6TY3s">Explore Node Employee Tracker Video</a>
@@ -119,7 +119,7 @@ function Portfolio(){
 
                         <div className= "ellen-stock">
                         
-                            <img className= "rounded mx-auto d-block" src= {ThorCastImg} height="250px" width="250px"/>
+                            <img className= "rounded mx-auto d-block"  alt="clip of app" src= {ThorCastImg} height="250px" width="250px"/>
                         
                             <div className="ellen-photo-bar"> 
                                 <a href="https://evwhite2.github.io/ThorCast/">Explore ThorCast</a>
@@ -133,7 +133,7 @@ function Portfolio(){
 
                         <div className= "ellen-stock">
                         
-                            <img className= "rounded mx-auto d-block" src= {FindInChiImg} height="250px" width="250px"/>
+                            <img className= "rounded mx-auto d-block"  alt="clip of app" src= {FindInChiImg} height="250px" width="250px"/>
                         
                             <div className="ellen-photo-bar"> 
                                 <a href="https://evwhite2.github.io/FindInChi/">Explore Find In Chi</a>
@@ -147,7 +147,7 @@ function Portfolio(){
 
                             <div className= "ellen-stock">
                             
-                                <img className= "rounded mx-auto d-block" src= {planItImg} height="250px" width="250px"/>
+                                <img className= "rounded mx-auto d-block"  alt="clip of app" src= {planItImg} height="250px" width="250px"/>
                             
                                 <div className="ellen-photo-bar"> 
                                     <a href="https://evwhite2.github.io/PlanIt/">Explore Plan It</a>
