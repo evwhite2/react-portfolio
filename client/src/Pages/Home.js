@@ -11,7 +11,8 @@ function Home(){
     return(
         <Wrapper>
         <Container>
-
+            <br/>
+            <br/>
             <div className="row">
 
                 <div className="col">

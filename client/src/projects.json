@@ -1,0 +1,81 @@
+{
+    "projects": [
+        {
+            "ID": "1",
+            "name": "TripBuddy",
+            "text": "Explore TripBuddy",
+            "href": "https://trip-buddy-2020.herokuapp.com/",
+            "img": "TripBuddyImg"
+        },
+        {
+            "ID": "2",
+            "name": "Directory",
+            "text": "Explore React Directoey",
+            "href": "https://react-directory-lnv2020.herokuapp.com/",
+            "img": "DirectoryImg"
+        },
+        {
+            "ID": "3",
+            "name": "FindInChi",
+            "text": "Explore FindInChi",
+            "href": "https://evwhite2.github.io/FindInChi/",
+            "img": "FindInChiImg"
+        },
+        {
+            "ID": "4",
+            "name": "QuizTime",
+            "text": "Explore QuizTime",
+            "href": "https://evwhite2.github.io/Timed-Quiz-NH/",
+            "img": "QuizTimeImg"
+        },
+        {
+            "ID": "5",
+            "name": "WerkOut",
+            "text": "Explore WerkOut Tracker",
+            "href": "https://werk-out-tracker.herokuapp.com/",
+            "img": "WerkOutImg"
+        },
+        {
+            "ID": "6",
+            "name": "Devour-or-Nah",
+            "text": "Explore Devour-or-Nah",
+            "href": "https://devour-or-nah.herokuapp.com/",
+            "img": "devourImg"
+        },
+        {
+            "ID": "7",
+            "name": "StarWarsDB",
+            "text": "Explore Start Wars DB",
+            "href": "https://starwars-simple-api-2019.herokuapp.com/",
+            "img": "StarWarsImg"
+        },
+        {
+            "ID": "8",
+            "name": "Node EmployeeTracker",
+            "text": "Explore Node Employee Tracker",
+            "href": "https://github.com/evwhite2/Employee-Tracker",
+            "img": "techStockImg"
+        },
+        {
+            "ID": "9",
+            "name": "ThorCast",
+            "text": "Explore ThorCast",
+            "href": "https://evwhite2.github.io/ThorCast/",
+            "img": "ThorCastImg"
+        },
+        {
+            "ID": "10",
+            "name": "Password Generator",
+            "text": "Expore Password Generator",
+            "href": "https://evwhite2.github.io/passwordgenerator/",
+            "img": "passwordImg"
+        },
+        {
+            "ID": "11",
+            "name": "NotePad",
+            "text": "Explore NotePad",
+            "href": "https://notepad-2019.herokuapp.com/",
+            "img": "NotePadImg"
+        }
+    ]
+}

@@ -14,10 +14,18 @@ import techStockImg from "../images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg";
 
 function Portfolio(){
     return(
-        <Wrapper>
 
             <Container>
-
+            <br/>
+            <div className="row">
+            <div className="col-lg">
+                    <div id="ellen-jumbotron" className="jumbotron jumbotron-fluid rounded">
+                            <div className="container">
+                              <h1 id="ellen-jumbo" className="display-4">Portfolio Gallery</h1>
+                            </div>
+                          </div>
+            </div>
+        </div>
             <div className="ellen-container rounded">
 
                 <div className="row">
@@ -163,9 +171,6 @@ function Portfolio(){
             </div>
 
             </Container>
-            
-            <Footer/>
-        </Wrapper>
     )
 }
 
