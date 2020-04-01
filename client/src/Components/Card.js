@@ -6,7 +6,7 @@ function Card(props){
             <div className="card-body">
                 <h3 className="card-title">{props.heading}</h3>
                 <h5>{props.subheading}</h5>
-                <p className="card-text">{props.text}</p>
+                <p className="card-text ">{props.text}</p>
             </div>
         </div>
     )

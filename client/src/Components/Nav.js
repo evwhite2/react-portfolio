@@ -21,12 +21,12 @@ function Nav(){
                         <a className="nav-link inactive" href="/contact">Contact Me</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="https://www.linkedin.com/in/ellen-white-a4699498/"
-                            target="_blank">LinkedIn</a>
-                    </li>
-                    <li className="nav-item">
                         <a className="nav-link" href="/resume">Resume</a>
                     </li>
+                    <li className="nav-item">
+                        <a className="nav-link" href="https://www.linkedin.com/in/ellen-white-a4699498/" target="_blank">LinkedIn</a>
+                    </li>
+                    
                 </ul>
 
             </nav>

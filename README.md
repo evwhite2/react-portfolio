@@ -1,6 +1,8 @@
 My portfolio, build in React
 
-Tech used:
+Technologies utilized: 
 
 ReactJS
 Express
+
+Last updated 4/1/2020

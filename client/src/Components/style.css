@@ -3,7 +3,9 @@ body{
     font-family: 'Roboto', sans-serif;
     height: 100vh;
 }
-
+h1{
+    font-family: 'Questrial', sans-serif;
+}
 h2 {
     color:whitesmoke;
     font-family: 'Questrial', sans-serif;
@@ -87,6 +89,9 @@ p{
     border-bottom: none;
 }
 
+.robo{
+    font-family: 'Roboto', sans-serif;
+}
 
 /* ids */
 
