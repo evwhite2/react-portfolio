@@ -1,4 +1,4 @@
-{
+
     [
         {
             "ID": "1",
@@ -10,7 +10,7 @@
         {
             "ID": "2",
             "name": "Directory",
-            "text": "Explore React Directoey",
+            "text": "Explore React Directory",
             "href": "https://react-directory-lnv2020.herokuapp.com/",
             "img": "DirectoryImg"
         },
@@ -45,7 +45,7 @@
         {
             "ID": "7",
             "name": "StarWarsDB",
-            "text": "Explore Start Wars DB",
+            "text": "Explore Star Wars DB",
             "href": "https://starwars-simple-api-2019.herokuapp.com/",
             "img": "StarWarsImg"
         },
@@ -76,6 +76,12 @@
             "text": "Explore NotePad",
             "href": "https://notepad-2019.herokuapp.com/",
             "img": "NotePadImg"
+        }, 
+        {
+            "ID": "12",
+            "name": "CustomStudioFrames",
+            "text": "Custom Studio Frames",
+            "href": "https://custom-studio-frames-2020.herokuapp.com/",
+            "img": "framesImg"
         }
     ]
-}

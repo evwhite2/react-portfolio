@@ -18,13 +18,13 @@ function Portfolio(){
 
             <Container>
             <br/>
-            <div className="row">
+        <div className="row">
             <div className="col-lg">
                     <div id="ellen-jumbotron" className="jumbotron jumbotron-fluid rounded">
                             <div className="container">
                               <h1 id="ellen-jumbo" className="display-4">Portfolio Gallery</h1>
                             </div>
-                          </div>
+                    </div>
             </div>
         </div>
             <div className="ellen-container rounded">
@@ -33,7 +33,7 @@ function Portfolio(){
                     <div className="col-lg-4">
                         <div className= "ellen-stock">
                         
-                            <img className= "rounded mx-auto d-block"  alt="clip of app" src= {WerkOut} height="250px" width="250px"/>
+                            <img className= "imgSz rounded mx-auto d-block"  alt="clip of app" src= {WerkOut} height="250px" width="250px"/>
                         
                             <div className="ellen-photo-bar"> 
                                 <a href="https://werk-out-tracker.herokuapp.com/">Explore WerkOut Tracker</a>

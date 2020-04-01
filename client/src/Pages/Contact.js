@@ -5,16 +5,18 @@ import Footer from "../Components/Footer";
 import LinkedInImg from "../images/iconfinder_linkedin_246593.png";
 import GitImg from "../images/iconfinder_github_1220319.png";
 import StackImg from "../images/iconfinder_318_Stack_Overflow_logo_4375498.png";
+import Jumbotron from "../Components/Jumbotron";
 
 function Contact(){
     return(
         <div>
            <Container>
+               <br/>
+               <Jumbotron text="Contact Me"/>
             <br/>
             <div className="row">
             
             <div className="col-lg-9">
-                <h1>Contact Me</h1>   
             <br/>
             <div className="row">
             <div id= "contactLinks" className="col-lg">

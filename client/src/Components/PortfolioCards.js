@@ -1,20 +1,17 @@
 import React from "react";
-// import Row from "./Row";
-// import Column4 from "./Column4";
+import "./style.css";
 
-function PorfolioCard(props){
+function PortfolioCard(props){
     return(
                 <div className= "ellen-stock">
-                            
-                    <img className= "rounded mx-auto d-block"  alt="clip of app" 
-                    key={props.ID}
-                    src= {props.img} 
-                    height="250px" 
-                    width="250px"/>
-                        
+                    <a href={props.href} target="blank">        
+                    <img className= "imgSz rounded mx-auto d-block"  alt="clip of app" 
+                    src={props.src} 
+                    />
+                    </a>
                     <div className="ellen-photo-bar"> 
-                        <a href={props.href}>
-                        {props.text}
+                        <a href={props.href} target="blank">
+                       {props.text}
                         </a>
                     </div>
                 </div>
@@ -22,4 +19,4 @@ function PorfolioCard(props){
     )
 }
 
-export default PorfolioCard
+export default PortfolioCard
