@@ -18,6 +18,25 @@ p{
 }
 
 /* classes */
+
+.centerAll{
+    justify-content: center;
+    text-align: center;
+}
+.detsBody{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 8px;
+}
+
+.detsHead{
+    font-family: 'Questrial', sans-serif;
+    font-size:20px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+
 .ellen-container{
     background-color: #343a40;
     padding:15px;
@@ -51,19 +70,7 @@ p{
     text-align: center;
 }
 
-.detsBody{
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
-    padding: 8px;
-}
 
-.detsHead{
-    font-family: 'Questrial', sans-serif;
-    font-size:20px;
-    font-weight: bold;
-    padding: 10px;
-    text-align: center;
-}
 
 .landing{
     display: flex;

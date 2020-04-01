@@ -18,6 +18,25 @@ p{
 }
 
 /* classes */
+.detsBody{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 8px;
+}
+
+.detsHead{
+    font-family: 'Questrial', sans-serif;
+    font-size:20px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+
+.double{
+  height: 45px;
+  bottom: 60px;  
+}
+
 .ellen-container{
     background-color: #343a40;
     padding:15px;
@@ -40,28 +59,11 @@ p{
     bottom: 40px;
     width:100%;
 }
-.double{
-  height: 45px;
-  bottom: 60px;  
-}
+
 
 .ellen-stock{
     float: center;
     position: relative;
-    text-align: center;
-}
-
-.detsBody{
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
-    padding: 8px;
-}
-
-.detsHead{
-    font-family: 'Questrial', sans-serif;
-    font-size:20px;
-    font-weight: bold;
-    padding: 10px;
     text-align: center;
 }
 
@@ -88,9 +90,9 @@ p{
 }
 
 #contactLinks{
-    border-radius: 20px;
     color:whitesmoke;
     max-height: 85%;
+    justify-content: center;
 }
 
 #ellen-jumbotron{
