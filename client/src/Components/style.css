@@ -18,6 +18,11 @@ p{
 }
 
 /* classes */
+
+.buffTop{
+    margin-top:15px;
+}
+
 .detsBody{
     font-family: 'Roboto', sans-serif;
     text-align: center;
