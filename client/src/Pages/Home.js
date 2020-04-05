@@ -2,8 +2,6 @@ import React from "react";
 import "./style.css";
 import profilePic from "../images/photo-2.JPG";
 import Container from "../Components/Container";
-import Wrapper from "../Components/Wrapper";
-import Footer from "../Components/Footer";
 import Row from "../Components/Row";
 import Column4 from "../Components/Column4";
 import SkillCard from "../Components/SkillCard";

@@ -1,6 +1,5 @@
 import React from "react";
 import Container from "../Components/Container";
-import Footer from "../Components/Footer";
 import Jumbotron from "../Components/Jumbotron";
 import Row from "../Components/Row";
 import Column4 from "../Components/Column4";
