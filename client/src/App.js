@@ -9,8 +9,6 @@ import Resume from "./Pages/Resume";
 // import Landing from './Pages/Landing';
 import Wrapper from './Components/Wrapper';
 
-// import TestNav from "./Components/TestNav"
-
 
 
 
