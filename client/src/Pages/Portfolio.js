@@ -1,7 +1,12 @@
 import React from "react";
-
 import "./style.css";
+
 import Container from "../Components/Container"
+import Row from "../Components/Row"
+import PortfolioCard from "../Components/PortfolioCards"
+import Jumbotron from "../Components/Jumbotron";
+import Column4 from "../Components/Column4";
+
 import passwordImg from "../images/password.JPG"
 import devourImg from "../images/Devour.JPG";
 import FindInChiImg from "../images/FindInChi.JPG";
@@ -16,13 +21,7 @@ import WerkOutImg from "../images/WerkOut.JPG";
 import directoryImg from "../images/Directory.JPG";
 import framesImg from "../images/Frames.JPG";
 
-import Row from "../Components/Row"
-
-import PortfolioCard from "../Components/PortfolioCards"
-import Jumbotron from "../Components/Jumbotron";
-import Column4 from "../Components/Column4";
-
-function Portfolio2(){
+function Portfolio(){
     
     return(
         
@@ -40,6 +39,7 @@ function Portfolio2(){
                 <PortfolioCard
                 src={TripBuddyImg}
                 href="https://trip-buddy-2020.herokuapp.com/"
+                imgLink="https://trip-buddy-2020.herokuapp.com/"
                 text="Trip Buddy"
                 />
                 </Column4>
@@ -48,6 +48,7 @@ function Portfolio2(){
                 <PortfolioCard
                 src={directoryImg}
                 href="https://react-directory-lnv2020.herokuapp.com/"
+                imgLink="https://react-directory-lnv2020.herokuapp.com/"
                 text="React Directory"
                 />
                 </Column4>
@@ -56,6 +57,7 @@ function Portfolio2(){
                 <PortfolioCard
                 src={framesImg}
                 href="https://custom-studio-frames-2020.herokuapp.com/"
+                imgLink="https://custom-studio-frames-2020.herokuapp.com/"
                 text="Studio Frames"
                 />
                 </Column4>
@@ -68,6 +70,7 @@ function Portfolio2(){
                 <PortfolioCard
                 src={FindInChiImg}
                 href="https://evwhite2.github.io/FindInChi/"
+                imgLink="https://evwhite2.github.io/FindInChi/"
                 text="Find In Chi"
                 />
                 </Column4>
@@ -76,6 +79,7 @@ function Portfolio2(){
                 <PortfolioCard
                 src={QuizTimeImg}
                 href="https://evwhite2.github.io/Timed-Quiz-NH/"
+                imgLink="https://evwhite2.github.io/Timed-Quiz-NH/"
                 text="Quiz Time"
                 />
                 </Column4>
@@ -84,6 +88,7 @@ function Portfolio2(){
                 <PortfolioCard
                 src={WerkOutImg}
                 href="https://werk-out-tracker.herokuapp.com/"
+                imgLink="https://werk-out-tracker.herokuapp.com/"
                 text="WerkOut"
                 />
                 </Column4>
@@ -96,6 +101,7 @@ function Portfolio2(){
                 <PortfolioCard
                 src={techStockImg}
                 href="https://github.com/evwhite2/Employee-Tracker"
+                imgLink="https://github.com/evwhite2/Employee-Tracker"
                 text="Node Employee Tracker"
                 />
                 </Column4>
@@ -104,6 +110,7 @@ function Portfolio2(){
                 <PortfolioCard
                 src={StarWarsImg}
                 href="https://starwars-simple-api-2019.herokuapp.com/"
+                imgLink="https://starwars-simple-api-2019.herokuapp.com/"
                 text="Star Wars DB"
                 />
                 </Column4>
@@ -112,6 +119,7 @@ function Portfolio2(){
                 <PortfolioCard
                 src={devourImg}
                 href="https://devour-or-nah.herokuapp.com/"
+                imgLink="https://devour-or-nah.herokuapp.com/"
                 text="Devour-or-Nah"
                 />
                 </Column4>
@@ -124,6 +132,7 @@ function Portfolio2(){
                 <PortfolioCard
                 src={passwordImg} 
                 href="https://evwhite2.github.io/passwordgenerator/"
+                imgLink="https://evwhite2.github.io/passwordgenerator/"
                 text="Password Generator"
                 />
                 </Column4>
@@ -132,11 +141,34 @@ function Portfolio2(){
                 <PortfolioCard
                 src={NotePadImg}
                 href="https://notepad-2019.herokuapp.com/"
+                imgLink="https://notepad-2019.herokuapp.com/"
                 text="Note Pad"
                 />
                 </Column4>
 
+                <Column4>
+                <PortfolioCard
+                src={ThorCastImg}
+                href="https://evwhite2.github.io/ThorCast/"
+                imgLink="https://evwhite2.github.io/ThorCast/"
+                text="ThorCast"
+                />
+                </Column4>
+
             </Row>
+            
+            <Row>
+
+                <Column4>
+                <PortfolioCard
+                src={planItImg} 
+                href="https://evwhite2.github.io/PlanIt"
+                imgLink="https://evwhite2.github.io/PlanIt"
+                text="PlanIt"
+                />
+                </Column4>
+
+            </Row>          
 
             </div>
         
@@ -144,4 +176,4 @@ function Portfolio2(){
         )
 }
 
-export default Portfolio2
+export default Portfolio

@@ -1,21 +1,28 @@
-import React from "react";
+
 import "./style.css"
+import React, { Component } from "react";
 
-function Footer(){
-    return(
-        <div className="row">
-            <div className="col-lg-12">
+var style = {
+    backgroundColor: "#343a40",
+    color: "whitesmoke",
+    fontSize: "12px",
+    textAlign: "center",
+    padding: "20px",
+    position: "fixed",
+    left: "0",
+    bottom: "0",
+    height: "45px",
+    width: "100%",
+};
 
-                <footer id="foot">
-                    <p>
-                        © Ellen White 2020
-                    </p>
-                </footer>
-
+class Footer extends Component{
+    render(){
+        return (
+            <div style={style}>
+                {this.props.children}
             </div>
-        </div>
-
-    )
-}
+        );
+    }
+};
 
 export default Footer

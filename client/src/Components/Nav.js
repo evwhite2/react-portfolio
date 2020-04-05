@@ -1,5 +1,6 @@
 import React from "react";
 
+
 function Nav(){
     return(
         <div className="row">
@@ -24,7 +25,7 @@ function Nav(){
                         <a className="nav-link" href="/resume">Resume</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="https://www.linkedin.com/in/ellen-white-a4699498/" target="_blank">LinkedIn</a>
+                        <a className="nav-link" href="https://www.linkedin.com/in/ellen-white-a4699498/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                     </li>
                     
                 </ul>

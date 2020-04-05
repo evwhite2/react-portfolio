@@ -12,7 +12,6 @@ import StackImg from "../images/iconfinder_318_Stack_Overflow_logo_4375498.png";
 
 function Contact(){
     return(
-        <div>
            <Container>
                <br/>
                <Jumbotron text="Contact Me"/>
@@ -27,29 +26,29 @@ function Contact(){
                 <Row>
                     <Column4>
                     <a href="https://www.linkedin.com/in/ellen-white-a4699498/"
-                    target="_blank"><img src={LinkedInImg} height="100px" width="100px"/></a>
+                    target="_blank" rel="noopener noreferrer"><img src={LinkedInImg} alt="icon" height="100px" width="100px"/></a>
                     </Column4>
                     <Column4>
                     <a href="https://github.com/evwhite2"
-                    target="_blank"><img src={GitImg} height="100px" width="100px"/></a>
+                    target="_blank" rel="noopener noreferrer"><img src={GitImg} alt="icon" height="100px" width="100px"/></a>
                     </Column4>
                     <Column4>
                     <a href="https://stackoverflow.com/users/11934027/ln-vw" 
-                    target="_blank"><img src={StackImg} height="100px" width="100px"/></a>
+                    target="_blank" rel="noopener noreferrer"><img src={StackImg} alt="icon" height="100px" width="100px"/></a>
                     </Column4>
                 </Row>
                 <Row>
                     <Column4>
                     <a href="https://www.linkedin.com/in/ellen-white-a4699498/" 
-                    target="_blank">Find me on LinkedIn</a> 
+                    target="_blank" rel="noopener noreferrer">Find me on LinkedIn</a> 
                     </Column4>
                     <Column4>
                     <a href="https://github.com/evwhite2" 
-                    target="_blank">Find me on GitHub</a>
+                    target="_blank" rel="noopener noreferrer">Find me on GitHub</a>
                     </Column4>
                     <Column4>
                     <a href="https://stackoverflow.com/users/11934027/ln-vw" 
-                    target="_blank">      Find Me on StackOverFlow</a>
+                    target="_blank" rel="noopener noreferrer">Find Me on StackOverFlow</a>
                     </Column4>
                 </Row>
         
@@ -60,9 +59,7 @@ function Contact(){
         </div>
 
         </Container> 
-         <Footer/>
-        </div>
-        
+      
     )
 }
 
