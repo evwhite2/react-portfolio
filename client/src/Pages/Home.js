@@ -35,28 +35,32 @@ function Home(){
             <Row>
                 <Column4>
                     <SkillCard
-                    heading="Languages"
+                    heading="Languages, Environment, Frameworks"
                     bullet1="JavaScript"
                     bullet2="HTML/CSS"
-                    
+                    bullet3="React"
+                    bullet4="Node"
                     />
                 </Column4>
 
                 <Column4>
                     <SkillCard
-                    heading="DB Mgmt"
-                    bullet1="MS Access, Oracle"
+                    heading="Database Managment"
+                    bullet1="Oracle"
                     bullet2="MongoDB/Moongoose"
                     bullet3="MySQL/Sequelize"
+                    bullet4="MS Access"
                     />
                 </Column4>
 
                 <Column4>
                     <SkillCard
-                      heading="Interpersonal"
-                      bullet1="Leadership"
+                      heading="Leadership"
+                      bullet1="Project Management"
                       bullet2="Detail Orientation"
-                      bullet3="Project Management"
+                      bullet3="Efficiency Improvement"
+                      bullet4="Writing and Documentation"
+                      bullet5="Planning and Organization"
                       />
                 </Column4>
 

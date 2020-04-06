@@ -39,7 +39,7 @@ function Contact(){
                 <Row>
                     <Column4>
                     <a href="https://www.linkedin.com/in/ellen-white-a4699498/" 
-                    target="_blank" rel="noopener noreferrer">Find me on LinkedIn</a> 
+                    target="_blank" rel="noopener noreferrer">Reach out on LinkedIn</a> 
                     </Column4>
                     <Column4>
                     <a href="https://github.com/evwhite2" 
@@ -49,6 +49,12 @@ function Contact(){
                     <a href="https://stackoverflow.com/users/11934027/ln-vw" 
                     target="_blank" rel="noopener noreferrer">Find Me on StackOverFlow</a>
                     </Column4>
+                </Row>
+                <br/>
+                <br/>
+                <br/>
+                <Row>
+                    <p>. . . Or email me directly at <a href="mailto:evwhite2@gmail.com">evwhite2@gmail.com</a></p>
                 </Row>
         
                                                             

@@ -9,6 +9,8 @@ function SkillCard(props){
                     <li className="skill list-group-item">{props.bullet1}</li>
                     <li className="skill list-group-item">{props.bullet2}</li>
                     <li className="skill list-group-item">{props.bullet3}</li>
+                    <li className="skill list-group-item">{props.bullet4}</li>
+                    <li className="skill list-group-item">{props.bullet5}</li>
                 </ul>
             </div>
         </div>
