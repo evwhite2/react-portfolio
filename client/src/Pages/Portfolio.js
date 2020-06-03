@@ -41,6 +41,7 @@ function Portfolio(){
                 href="https://trip-buddy-2020.herokuapp.com/"
                 imgLink="https://trip-buddy-2020.herokuapp.com/"
                 text="Trip Buddy"
+                hrefRepo="https://github.com/evwhite2/TripBuddy"
                 />
                 </Column4>
 
@@ -50,6 +51,7 @@ function Portfolio(){
                 href="https://react-directory-lnv2020.herokuapp.com/"
                 imgLink="https://react-directory-lnv2020.herokuapp.com/"
                 text="React Directory"
+                hrefRepo="https://github.com/evwhite2/reactDirectory2.0"
                 />
                 </Column4>
 
@@ -59,6 +61,7 @@ function Portfolio(){
                 href="https://custom-studio-frames-2020.herokuapp.com/"
                 imgLink="https://custom-studio-frames-2020.herokuapp.com/"
                 text="Studio Frames"
+                hrefRepo="https://github.com/evwhite2/CustomFramingApp2"
                 />
                 </Column4>
 
@@ -72,6 +75,7 @@ function Portfolio(){
                 href="https://evwhite2.github.io/FindInChi/"
                 imgLink="https://evwhite2.github.io/FindInChi/"
                 text="Find In Chi"
+                hrefRepo="https://github.com/evwhite2/FindInChi"
                 />
                 </Column4>
 
@@ -81,6 +85,7 @@ function Portfolio(){
                 href="https://evwhite2.github.io/Timed-Quiz-NH/"
                 imgLink="https://evwhite2.github.io/Timed-Quiz-NH/"
                 text="Quiz Time"
+                hrefRepo="https://github.com/evwhite2/Timed-Quiz-NH"
                 />
                 </Column4>
 
@@ -90,6 +95,7 @@ function Portfolio(){
                 href="https://werk-out-tracker.herokuapp.com/"
                 imgLink="https://werk-out-tracker.herokuapp.com/"
                 text="WerkOut"
+                hrefRepo="https://github.com/evwhite2/WerkOutRecorder"
                 />
                 </Column4>
 
@@ -103,6 +109,7 @@ function Portfolio(){
                 href="https://github.com/evwhite2/Employee-Tracker"
                 imgLink="https://github.com/evwhite2/Employee-Tracker"
                 text="Node Employee Tracker"
+                hrefRepo="https://github.com/evwhite2/Employee-Tracker"
                 />
                 </Column4>
 
@@ -112,6 +119,7 @@ function Portfolio(){
                 href="https://starwars-simple-api-2019.herokuapp.com/"
                 imgLink="https://starwars-simple-api-2019.herokuapp.com/"
                 text="Star Wars DB"
+                hrefRepo="https://github.com/evwhite2/StarWarsApp"
                 />
                 </Column4>
 
@@ -121,6 +129,7 @@ function Portfolio(){
                 href="https://devour-or-nah.herokuapp.com/"
                 imgLink="https://devour-or-nah.herokuapp.com/"
                 text="Devour-or-Nah"
+                hrefRepo="https://github.com/evwhite2/Devour-or-nah"
                 />
                 </Column4>
 
@@ -134,6 +143,7 @@ function Portfolio(){
                 href="https://evwhite2.github.io/passwordgenerator/"
                 imgLink="https://evwhite2.github.io/passwordgenerator/"
                 text="Password Generator"
+                hrefRepo="https://github.com/evwhite2/passwordgenerator"
                 />
                 </Column4>
 
@@ -143,6 +153,7 @@ function Portfolio(){
                 href="https://notepad-2019.herokuapp.com/"
                 imgLink="https://notepad-2019.herokuapp.com/"
                 text="Note Pad"
+                hrefRepo="https://github.com/evwhite2/NotePad"
                 />
                 </Column4>
 
@@ -152,6 +163,7 @@ function Portfolio(){
                 href="https://evwhite2.github.io/ThorCast/"
                 imgLink="https://evwhite2.github.io/ThorCast/"
                 text="ThorCast"
+                hrefRepo="https://github.com/evwhite2/ThorCast"
                 />
                 </Column4>
 
@@ -165,6 +177,7 @@ function Portfolio(){
                 href="https://evwhite2.github.io/PlanIt"
                 imgLink="https://evwhite2.github.io/PlanIt"
                 text="PlanIt"
+                hrefRepo="https://github.com/evwhite2/PlanIt"
                 />
                 </Column4>
 
