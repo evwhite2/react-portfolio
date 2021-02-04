@@ -18,38 +18,33 @@ function Home(){
 
                     <img className="ellen-photo" alt="profile" src={profilePic}/>
 
-                    <h3> About Me</h3>
+                    <h3>Profile</h3>
                 <p>
-                    Full Stack Developer working to change the trajectory of my career towards a company that values innovation, sustainability, and merit. I earned a certificate in Full Stack Development from Northwestern University, and I am in active pursuit of my MBA. I am inclined towards the principles of continuous improvement, and I use my fresh experience in Javascript and database management systems to do just that. 
+                    Ellen is a Full Stack Developer and Business Data Analyst who values innovation, sustainability, and merit. She earned a certificate in Web Development from Northwestern University, and is an MBA candidate with concentration in Information Systems and Business Data Analytics.
                 </p>
                 <p>
-                    I have contributed to the design and implementation of small-scale data tools to help my previous organization make more effective choices on a front-line basis. With several years of advanced customer service experience in leadership roles, I enjoy and excel in having an active line of communication with the client, providing me with the ideal combination of flexibility, emotional intelligence, and diligence.
+                   With several years of advanced customer service experience in leadership roles, Ellen enjoys and excels in having an active line of communication with the client. During her education at Northwestern, Ellen most notably contributed to a full stack website that would serve as a catalog and calculator to build price quotes for a custom framing store. Ellen created the schema for the database and wrote the back end connections in JavaScript from MongoDB into a React application, and designed and wrote nearly the entire front end. As an engineer for Bank of America, her focus has shifted towards big data and analytics while still maintaining side projects in web development.
                 </p>
-                <p>
-                    I seek to change into a role in back-end development, specifically in development of data-driven tools and architecture. As a life-long learner and leader, I plan to use my fresh coding experience and my natural tenacity to tackle my entry into a role aligned with these interests.
-                </p>
-
                 </div>
 
             </div>
             <Row>
                 <Column4>
                     <SkillCard
-                    heading="Languages, Environment, Frameworks"
-                    bullet1="JavaScript"
-                    bullet2="HTML/CSS"
-                    bullet3="React"
-                    bullet4="Node"
+                    heading="Languages/Frameworks"
+                    bullet1="JavaScript, Python, Java"
+                    bullet2="React, Angular"
+                    bullet3="NodeJS"
                     />
                 </Column4>
 
                 <Column4>
                     <SkillCard
-                    heading="Database Managment"
-                    bullet1="Oracle"
-                    bullet2="MongoDB/Moongoose"
-                    bullet3="MySQL/Sequelize"
-                    bullet4="MS Access"
+                    heading="DBMS"
+                    bullet1="Oracle SQL"
+                    bullet2="Moongoose"
+                    bullet3="Impala Hadoop"
+                    bullet4="PySpark"
                     />
                 </Column4>
 
@@ -58,9 +53,8 @@ function Home(){
                       heading="Leadership"
                       bullet1="Project Management"
                       bullet2="Detail Orientation"
-                      bullet3="Efficiency Improvement"
-                      bullet4="Writing and Documentation"
-                      bullet5="Planning and Organization"
+                      bullet3="Writing and Documentation"
+                      bullet4="Planning and Organization"
                       />
                 </Column4>
 

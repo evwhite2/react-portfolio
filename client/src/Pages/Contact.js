@@ -53,9 +53,7 @@ function Contact(){
                 <br/>
                 <br/>
                 <br/>
-                <Row>
-                    <p>. . . Or email me directly at <a href="mailto:evwhite2@gmail.com">evwhite2@gmail.com</a></p>
-                </Row>
+              
         
                                                             
             </div> 

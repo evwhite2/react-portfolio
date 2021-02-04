@@ -13,8 +13,8 @@ function Resume(){
                     <h1>Education</h1>
                     <Card
                     heading="MS Business Administration"
-                    subheading="Concentration in IT and Data Management"
-                    text="Loyola University Chicago, Expected Graduation 2021"
+                    subheading="Concentration in Information Systems and Certificate in Business Data Analytics"
+                    text="Loyola University Chicago, Expected Graduation Spring 2022"
                     />
 
                     <Card
@@ -33,8 +33,16 @@ function Resume(){
                 <div className="col-lg-6">
                     <h1>Professtional Experience</h1>
                     <ListCard
+                    heading="Software Developer"
+                    subheading="FDM Group, Inc / July 2020-Current"
+                    text="Working under contract for Bank of America since October 2020"
+                    bullet1="Wrote several python modules in the Quartz Environment that would serve to migrate e-trading data from several sources into the Hadoop environment."
+                    bullet2="Built Tableau dashboards for the purposes of e-traders to track their volumes, anomalies, and potentially erroneous transactions."
+                    bullet3="Extracted and cataloged all data sources used for regular reporting in the global e-trading divisions to be used for impact analysis when migrating reporting to BI software."
+                    />
+                    <ListCard
                     heading="Customer Service Representative"
-                    subheading="ArcelorMittal International, Long Carbon Europe / October 2018- Present"
+                    subheading="ArcelorMittal International, Long Carbon Europe / October 2018-May 2020"
                     text="Liaison for all Canada-based client needs after and order placement, including
                     status updates, invoicing, and reporting on vessel schedules in coordination with
                     counterparts in European producing mills. Also resident techie."
