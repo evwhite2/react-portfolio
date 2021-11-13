@@ -20,7 +20,7 @@ function Home(){
 
                     <h3>Profile</h3>
                 <p>
-                    Ellen is a Full Stack Developer and Business Data Analyst who values innovation, sustainability, and merit. She earned a certificate in Web Development from Northwestern University, and is an MBA candidate with concentration in Information Systems and Business Data Analytics.
+                    Ellen is a Full Stack Developer and Business Data Analyst who values innovation, sustainability, and merit. She earned a certificate in Web Development from Northwestern University, and is an MBA candidate with concentration in Information Systems and Business Data Analytics at Loyola University of Chicago.
                 </p>
                 <p>
                    With several years of advanced customer service experience in leadership roles, Ellen enjoys and excels in having an active line of communication with the client. During her education at Northwestern, Ellen most notably contributed to a full stack website that would serve as a catalog and calculator to build price quotes for a custom framing store. Ellen created the schema for the database and wrote the back end connections in JavaScript from MongoDB into a React application, and designed and wrote nearly the entire front end. As an engineer for Bank of America, her focus has shifted towards big data and analytics while still maintaining side projects in web development.

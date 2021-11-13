@@ -83,6 +83,10 @@ p{
     width:250px;
 }
 
+.med-txt{
+    font-size: 14px;
+}
+
 .stronger{
     text-decoration: underline;
 }

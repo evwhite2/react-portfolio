@@ -25,7 +25,7 @@ function App() {
             <Route exact path="/resume" component={Resume} />
           </BrowserRouter>
           <Footer>
-            <p> © Ellen White 2020 </p>
+            <p> © Ellen White 2021 </p>
           </Footer>
           </Wrapper> 
       
