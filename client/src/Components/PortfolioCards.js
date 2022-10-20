@@ -6,7 +6,7 @@ function PortfolioCard(props){
     return(
                 <div className= "ellen-stock">
                     <a href={props.imgLink} target="blank">        
-                    <img alt="icon"  className= "imgSz rounded mx-auto d-block"  alt="clip of app" 
+                    <img alt="icon"  className= "imgSz rounded mx-auto d-block" 
                     src={props.src} 
                     />
                     </a>
