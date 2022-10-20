@@ -24,7 +24,7 @@ function Contact(){
         
                 <Row>
                     <Column4>
-                    <a href="https://www.linkedin.com/in/ellen-white-a4699498/"
+                    <a href="https://www.linkedin.com/in/ellen-victoria-white/"
                     target="_blank" rel="noopener noreferrer"><img src={LinkedInImg} alt="icon" height="100px" width="100px"/></a>
                     </Column4>
                     <Column4>
@@ -38,7 +38,7 @@ function Contact(){
                 </Row>
                 <Row>
                     <Column4>
-                    <a href="https://www.linkedin.com/in/ellen-white-a4699498/" 
+                    <a href="https://www.linkedin.com/in/ellen-victoria-white/" 
                     target="_blank" rel="noopener noreferrer">Reach out on LinkedIn</a> 
                     </Column4>
                     <Column4>

@@ -12,21 +12,25 @@ function Resume(){
                 <div className="col-lg-6">
                     <h1>Education</h1>
                     <Card
-                    heading="MS Business Administration"
-                    subheading="Concentration in Information Systems and Certificate in Business Data Analytics"
-                    text="Loyola University Chicago, Expected Graduation Spring 2022"
+                    heading="Masters in Business Administration"
+                    subheading="Loyola University Chicago, 2022"
+                    text="Concentration in Information Systems including SQL, DBMS, and Python"
                     />
-
+                    <Card
+                    heading="Certificate in Business Data Analytics"
+                    subheading="Loyola University Chicago, 2022"
+                    text="Machine Learning, Business Intelligence, Analytics"
+                    />
                     <Card
                     heading="Certificate of Full Stack Web Development"
-                    subheading="School of Professional Studies"
-                    text="Northwestern University, 2020"
+                    subheading="Northwestern University, 2020"
+                    text="JavaScript, Node.js, HTML/CSS, MongoDB, SQL,React"
                     />
 
                     <Card
                     heading="BS Environmental Science and Sustainablity"
-                    subheading="Concentration in Society and Environment"
-                    text="University of Illinois at Urbana-Champaign, 2016"
+                    subheading="University of Illinois at Urbana-Champaign, 2016"
+                    text="Major in Society and Environment"
                     />
                 </div>
 
@@ -36,9 +40,10 @@ function Resume(){
                     heading="Software Developer"
                     subheading="FDM Group, Inc / July 2020-Current"
                     text="Working under contract for Bank of America since October 2020"
-                    bullet1="Wrote several python modules in the Quartz Environment that would serve to migrate e-trading data from several sources into the Hadoop environment."
-                    bullet2="Built Tableau dashboards for the purposes of e-traders to track their volumes, anomalies, and potentially erroneous transactions."
-                    bullet3="Extracted and cataloged all data sources used for regular reporting in the global e-trading divisions to be used for impact analysis when migrating reporting to BI software."
+                    bullet1="Serves as lead analyst and project manager for a data source migration project required by global risk analytics management, coordinating business and technical requirements, change management, facilitating data vendor contract agreements, and  serves in a variety of research and testing capacities for development tasks"
+                    bullet2="Served as the lead analyst and assisted in UAT for the development project of a new trade blotter application, assisting development team with gathering business requirements, research, and documentation"
+                    bullet3="Wrote python modules in the Quartz Environment that would serve to extract and catalog e-trading data from several sources into Tableau dashboard for impact analysis reporting in the global e-trading divisions and monitor volumes, anomalies, and potentially erroneous transactions
+                    rote several python modules in the Quartz Environment that would serve to migrate e-trading data from several sources into the Hadoop environment."
                     />
                     <ListCard
                     heading="Customer Service Representative"
