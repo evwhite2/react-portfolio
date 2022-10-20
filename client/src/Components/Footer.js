@@ -2,7 +2,7 @@
 import "./style.css"
 import React, { Component } from "react";
 
-var style = {
+let style = {
     backgroundColor: "#343a40",
     color: "whitesmoke",
     fontSize: "12px",
@@ -24,6 +24,6 @@ class Footer extends Component{
             </div>
         );
     }
-};
+}
 
 export default Footer
