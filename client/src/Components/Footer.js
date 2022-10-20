@@ -11,7 +11,8 @@ var style = {
     position: "fixed",
     left: "0",
     bottom: "0",
-    height: "45px",
+    height: "65px",
+    verticleAlign: "middle",
     width: "100%",
 };
 
