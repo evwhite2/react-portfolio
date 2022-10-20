@@ -25,7 +25,11 @@ function App() {
             <Route exact path="/resume" component={Resume} />
           </BrowserRouter>
           <Footer>
+<<<<<<< HEAD
             <p> © Ellen White 2022 </p>
+=======
+            <p> © Ellen White 2021 </p>
+>>>>>>> 24ee9219231f833ac6cb64e34edd9c4bc91ee7f0
           </Footer>
           </Wrapper> 
       
